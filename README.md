@@ -10,7 +10,7 @@
 
 <!-- Subheading with subtle color via image so it looks good on dark mode -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&pause=999999&center=true&vCenter=true&width=650&color=B57EDC&lines=A+passionate+frontend+developer+from+India" alt="A passionate frontend developer 👨‍💻from India"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&pause=999999&center=true&vCenter=true&width=650&color=B57EDC&lines=A+passionate+frontend+developer+from+India" alt="A passionate frontend developer 👨‍💻 from India"/>
 </p>
 
 ---
