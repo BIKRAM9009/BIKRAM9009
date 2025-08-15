@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&center=true&vCenter=true&width=900&lines=Hello+Developers!+%F0%9F%91%8B;I'm+BIKRAM+BAIDYA" alt="Hello Developers! 👋 I'm BIKRAM BAIDYA" />
 </p>
 
-<!-- Subheading with subtle color via image so it looks good on dark mode -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&pause=999999&center=true&vCenter=true&width=650&color=B57EDC&lines=A+passionate+frontend+developer+from+India" alt="A passionate frontend developer from India"/>
-</p>
-
 <!-- Endless typing GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man typing code on laptop" width="500" />
+</p>
+
+<!-- Subheading with subtle color via image so it looks good on dark mode -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&pause=999999&center=true&vCenter=true&width=650&color=B57EDC&lines=A+passionate+frontend+developer+from+India" alt="A passionate frontend developer 👨‍💻from India"/>
 </p>
 
 ---
