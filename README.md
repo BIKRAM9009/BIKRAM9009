@@ -22,6 +22,7 @@
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.  
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!  
 - ⚡ Fun fact: **Why do developers choose dark mode? Because light attracts bugs. 😁😁**
+-  🌐**MYPortfolio** : https://mygenaiportfolio.netlify.app/
 
 ---
 
