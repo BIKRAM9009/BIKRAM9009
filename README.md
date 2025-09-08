@@ -1,6 +1,6 @@
 <!-- Animated gradient-styled header (typing sequence + loop) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&center=true&vCenter=true&width=900&lines=Hello+Developers!+%F0%9F%91%8B;I'm+BIKRAM+BAIDYA" alt="Hello Developers! 👋 I'm BIKRAM BAIDYA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&center=true&vCenter=true&width=900&lines=Hello+Developers!+%F0%9F%91%8B;I'm+BIKRAM+BAIDYA" alt="Hello Developers! 👋 I'm BIIKRAM BAIDYA" />
 </p>
 
 <!-- Endless typing GIF -->
